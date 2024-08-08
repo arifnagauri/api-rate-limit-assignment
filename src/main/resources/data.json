@@ -1,0 +1,31 @@
+[
+  {
+    "name": "Blue Heights",
+    "price": "2.5",
+    "description": "Lorem Ipsum Dollar dummy"
+  },
+
+  {
+    "name": "Sky Heights",
+    "price": "2.0",
+    "description": "Lorem Ipsum Dollar dummy"
+  },
+
+  {
+    "name": "Lake View",
+    "price": "1.0",
+    "description": "Lorem Ipsum Dollar dummy"
+  },
+
+  {
+    "name": "Sunshine Towers",
+    "price": "3.0",
+    "description": "Lorem Ipsum Dollar dummy"
+  },
+
+  {
+    "name": "Sea Link View",
+    "price": "9.5",
+    "description": "Lorem Ipsum Dollar dummy"
+  }
+]
