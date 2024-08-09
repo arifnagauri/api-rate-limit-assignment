@@ -10,6 +10,9 @@ import java.net.URI;
 import java.util.HashMap;
 import java.util.Map;
 
+/**
+ * Spring Boot RESTful Web Service Consumer using RestTemplate
+ */
 public class ApiConsumerApp {
 
     /** Cached Properties */

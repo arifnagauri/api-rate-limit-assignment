@@ -11,3 +11,7 @@ Propose a solution by which:
 Answers:
 1. We can use caching techniques to keep api request within safe limit. (checkout to commit #2)
 2. & 3. We can implement pricing-plan (free, basic, premium) so that, consumer can hit the api more that free available rate limit.
+
+
+There's one backend Spring Boot based RESTApi web service (SpringBootApp.java) which has to be started in order to test the solution. 
+And then there's a client (ApiConsumerApp.java) which should be run as a separate process, it will test all the api calls scenarios.
